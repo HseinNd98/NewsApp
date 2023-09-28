@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903516478345",
+    "project_id": "areebanewsapp",
+    "storage_bucket": "areebanewsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903516478345:android:d6292427b5950e6d1c5f58",
+        "android_client_info": {
+          "package_name": "hussein.nasereddine.areeba_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHsRGrj0dZgA9YU_yBRSZsV4fFYVBQOfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

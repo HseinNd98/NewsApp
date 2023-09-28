@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/menu_main_group_lang">
+        <menu>
+            <item
+                android:id="@+id/nav_lang_en"
+                android:title="@string/menu_main_lang_en" />
+            <item
+                android:id="@+id/nav_lang_ar"
+                android:title="@string/menu_main_lang_ar" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_main_group_medias">
+        <menu>
+            <item
+                android:id="@+id/nav_albums"
+                android:icon="@drawable/icon_album"
+                android:title="@string/menu_main_album" />
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_main_group_help">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/icon_contact"
+                android:title="@string/menu_main_contact" />
+        </menu>
+    </item>
+
+</menu>

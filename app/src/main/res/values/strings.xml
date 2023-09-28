@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">The News App</string>
+
+    <!-- Navbar main menu header -->
+    <string name="main_navbar_header_hint">Latest world wide news</string>
+
+    <!-- Common error messages -->
+    <string name="msg_invalid_internet_connection">Invalid internet connection! Please check and try again..</string>
+    <string name="msg_album_failed_to_load">Failed to load album!</string>
+
+    <!-- Field validation errors -->
+    <string name="msg_email_validation_error">Invalid email!</string>
+    <string name="msg_phone_validation_error">Invalid phone number!</string>
+
+    <!-- Main menu -->
+    <string name="menu_main_group_lang">News Languages</string>
+    <string name="menu_main_group_medias">Medias</string>
+    <string name="menu_main_group_help">Help</string>
+    <string name="menu_main_lang_en">English</string>
+    <string name="menu_main_lang_ar">Arabic</string>
+    <string name="menu_main_contact">Contact Us</string>
+    <string name="menu_main_album">Album</string>
+
+</resources>
